@@ -1,0 +1,114 @@
+[
+    {
+        "Name": "Toyota RAV4",
+        "Year": "2021",
+        "Sitting": "4",
+        "Fuel": "Hybrid",
+        "Mileage": "6.1",
+        "Drive": "Automatic",
+        "Price": "440",
+        "Images": [
+            "https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+            "https://cars.usnews.com/static/images/Auto/izmo/i159615499/2023_toyota_rav4_dashboard.jpg",
+            "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg__marking_background__sm_/v1/editorial/2019-TOYOTA-RAV4-CRUISER-HYBRID-AWD-1200x800p%20%288%29.jpg"
+        ]
+    },
+    {
+        "Name": "BMW 3 Series",
+        "Year": "2019",
+        "Sitting": "4",
+        "Fuel": "Gasoline",
+        "Mileage": "8.2",
+        "Drive": "Automatic",
+        "Price": "350",
+        "Images": [
+            "https://preview.redd.it/3ed1di51cq791.jpg?width=640&crop=smart&auto=webp&s=907554b67424e60e27c3f789bb1c4cd718e31df5",
+            "https://paultan.org/image/2022/04/2022-BMW-i3-eDrive35L-China-G20-3-Series-facelift-preview-19-1200x675.jpg",
+            "https://gumlet.assettype.com/evoindia%2F2022-05%2Fbb0bbbf2-c7f9-4da0-ade4-6388bd80968a%2FP90462532_highRes_the_new_bmw_3_series.jpg?auto=format%2Ccompress&format=webp&w=376&dpr=2.6"
+        ]
+    },
+    {
+        "Name": "Volkswagen T-Cross",
+        "Year": "2020",
+        "Sitting": "4",
+        "Fuel": "Gasoline",
+        "Mileage": "5.3",
+        "Drive": "Automatic",
+        "Price": "400",
+        "Images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-fVbna-3w9pVww1hub_IYftGzu3dYbZ0IQB5pRHm0DqYHIrBDvMxOKkmfnI0VpdYz5A&usqp=CAU",
+            "https://www.team-bhp.com/sites/default/files/styles/check_extra_large_for_review/public/2024-VW-T-Cross-R-Line-15-2048x1366.jpg",
+            "https://i.ytimg.com/vi/nMPghvqUpII/maxresdefault.jpg"
+        ]
+    },
+    {
+        "Name": "Cadillac Escalade",
+        "Year": "2020",
+        "Sitting": "4",
+        "Fuel": "Gasoline",
+        "Mileage": "7.7",
+        "Drive": "Automatic",
+        "Price": "620",
+        "Images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_qS_mGaHAofEOBaji0e-hRMLX8SiRYbFTw&usqp=CAU",
+            "https://cdn.motor1.com/images/mgl/g4leow/s1/2025-cadillac-escalade-iq-interior-dashboard.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48Ym0R7iATRWEEYP0COfWB3dfKh77K6mlQw&usqp=CAU"
+        ]
+    },
+    {
+        "Name": "BMW 4 Series GTI",
+        "Year": "2021",
+        "Sitting": "4",
+        "Fuel": "Gasoline",
+        "Mileage": "7.6",
+        "Drive": "Automatic",
+        "Price": "530",
+        "Images": [
+            "https://hips.hearstapps.com/hmg-prod/images/concept4-1568059116.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiLpKqIpUYMM2K_0bCV8OMtdjBZ2meuiL0haWqSxLJNbH33yFh_zOLCWq8q-lfgZEr4xo&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fiaiB_TiBdq12UCTm6l0WDeZY5GvQ3_ZLCPDOJvY4MGCBJ_hMwgEw4Omf7HpAyuPKio&usqp=CAU"
+        ]
+    },
+    {
+        "Name": "BMW 4 Series",
+        "Year": "2019",
+        "Sitting": "4",
+        "Fuel": "Gasoline",
+        "Mileage": "7.2",
+        "Drive": "Automatic",
+        "Price": "490",
+        "Images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC1OzVsvknsirfdfQmepmOWB_vPi1EDj8bMQ&usqp=CAU",
+            "https://www.motorbeam.com/wp-content/uploads/2022-BMW-4-Series-Gran-Coupe-1200x900.jpg",
+            "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2023/my24/4-series/coupe/overview/mobile/BMW-MY24-4SeriesCoupe-Overview-Design-02-Mobile.jpg"
+        ]
+    },
+    {
+        "Name": "Toyota RAV4",
+        "Year": "2021",
+        "Sitting": "4",
+        "Fuel": "Hybrid",
+        "Mileage": "6.1",
+        "Drive": "Automatic",
+        "Price": "440",
+        "Images": [
+            "https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+            "https://cars.usnews.com/static/images/Auto/izmo/i159615499/2023_toyota_rav4_dashboard.jpg",
+            "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg__marking_background__sm_/v1/editorial/2019-TOYOTA-RAV4-CRUISER-HYBRID-AWD-1200x800p%20%288%29.jpg"
+        ]
+    },
+    {
+        "Name": "Toyota RAV4",
+        "Year": "2021",
+        "Sitting": "4",
+        "Fuel": "Hybrid",
+        "Mileage": "6.1",
+        "Drive": "Automatic",
+        "Price": "440",
+        "Images": [
+            "https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+            "https://cars.usnews.com/static/images/Auto/izmo/i159615499/2023_toyota_rav4_dashboard.jpg",
+            "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg__marking_background__sm_/v1/editorial/2019-TOYOTA-RAV4-CRUISER-HYBRID-AWD-1200x800p%20%288%29.jpg"
+        ]
+    }
+]

@@ -1,0 +1,145 @@
+.card{
+    width: 400px;
+    height: 480px;
+    margin: 20px;
+    border: 1px solid white;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px 1px #cbcbcb;
+}
+
+.card img{
+    width: 380px;
+    margin: auto;
+    height: 240px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.imageContainer {
+    position: relative;
+    overflow: hidden;
+}
+
+.caro{
+    width: 380px;
+    margin: auto;
+    height: 260px;
+    border-radius: 20px;
+}
+
+.carModel{
+    width: 88%;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.carModel h3{
+    align-self: flex-start;
+}
+
+.carModel p{
+    align-self: flex-end;
+    margin-right: 10px;
+    border: 1.2px dashed #4999EC;
+    border-radius: 12px;
+    padding: 1px 12px 2px 12px;
+}
+
+.line{
+    width: 87%;
+    margin: auto;
+    height: 1px;
+    background-color: gray;
+    opacity: 0.3;
+    margin-top: 8px;
+}
+
+.descripton{
+    display: flex;
+    flex-wrap: wrap;
+    width: 88%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.descripton p{
+    width: 50%;
+    text-align: left;
+    margin-bottom: 15px;
+    vertical-align: middle;
+}
+
+.Icon{
+    margin-right: 5px;
+    color:#4999EC;
+    font-size: 17px;
+    vertical-align: middle;
+}
+
+.wheelIcon{
+    font-size: 20px;
+}
+
+.lastSection{
+    display: flex;
+    width: 88%;
+    margin: auto;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.lastSectionSecond{
+    display: flex;
+}
+
+.lastSectionSecond button{
+    margin-left: 15px;
+    background-color: #4999EC;
+    border: 2px solid transparent;
+    color:white;
+    font-weight: bold;
+    padding: 8px 16px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.lastSectionSecond button:hover{
+    background-color: #EDF1F6;
+    color:#4999EC;
+    border: 2px solid #4999EC;
+}
+
+.heart{
+    background-color: #DAEAFA;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    color:#4999EC;
+    font-weight: bold;  
+    padding: 6px 7px;
+    font-size: 20px;
+}
+
+.heart:hover{
+    background-color:#4999EC;
+    cursor: pointer;
+    color: #DAEAFA;
+}
+
+.lastSectionFirst{
+    display: flex;
+    /* align-items: flex-start; */
+    justify-content: space-between; 
+}
+
+.price{
+    font-size: 25px;
+    margin-right: 10px;
+    font-weight: 400;
+    align-self: flex-start;
+}
+
+.lastSectionFirst :nth-child(2){
+    align-self: center
+}
